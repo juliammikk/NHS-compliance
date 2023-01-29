@@ -1,0 +1,705 @@
+Council area,Year,Population
+NHS Grampian,1998,215650
+NHS Grampian,1999,214630
+NHS Grampian,2000,213340
+NHS Grampian,2001,211910
+NHS Grampian,2002,210680
+NHS Grampian,2003,209280
+NHS Grampian,2004,207820
+NHS Grampian,2005,208690
+NHS Grampian,2006,209630
+NHS Grampian,2007,212470
+NHS Grampian,2008,214020
+NHS Grampian,2009,217020
+NHS Grampian,2010,219730
+NHS Grampian,2011,222460
+NHS Grampian,2012,224910
+NHS Grampian,2013,227070
+NHS Grampian,2014,228920
+NHS Grampian,2015,230350
+NHS Grampian,2016,229840
+NHS Grampian,2017,228800
+NHS Grampian,2018,227560
+NHS Grampian,2019,228670
+NHS Grampian,1998,226220
+NHS Grampian,1999,227240
+NHS Grampian,2000,227020
+NHS Grampian,2001,226940
+NHS Grampian,2002,228830
+NHS Grampian,2003,231250
+NHS Grampian,2004,234690
+NHS Grampian,2005,237570
+NHS Grampian,2006,241180
+NHS Grampian,2007,244390
+NHS Grampian,2008,246830
+NHS Grampian,2009,249020
+NHS Grampian,2010,251430
+NHS Grampian,2011,253650
+NHS Grampian,2012,255560
+NHS Grampian,2013,257770
+NHS Grampian,2014,260530
+NHS Grampian,2015,261960
+NHS Grampian,2016,262190
+NHS Grampian,2017,261800
+NHS Grampian,2018,261470
+NHS Grampian,2019,261210
+NHS Tayside,1998,109790
+NHS Tayside,1999,109560
+NHS Tayside,2000,108850
+NHS Tayside,2001,108370
+NHS Tayside,2002,108810
+NHS Tayside,2003,108700
+NHS Tayside,2004,110170
+NHS Tayside,2005,111340
+NHS Tayside,2006,112500
+NHS Tayside,2007,113540
+NHS Tayside,2008,114490
+NHS Tayside,2009,114830
+NHS Tayside,2010,115410
+NHS Tayside,2011,116200
+NHS Tayside,2012,116220
+NHS Tayside,2013,116290
+NHS Tayside,2014,116740
+NHS Tayside,2015,116900
+NHS Tayside,2016,116520
+NHS Tayside,2017,116280
+NHS Tayside,2018,116040
+NHS Tayside,2019,116200
+NHS Highland,1998,91670
+NHS Highland,1999,91640
+NHS Highland,2000,91050
+NHS Highland,2001,91300
+NHS Highland,2002,91020
+NHS Highland,2003,90930
+NHS Highland,2004,90580
+NHS Highland,2005,90340
+NHS Highland,2006,90860
+NHS Highland,2007,90790
+NHS Highland,2008,89910
+NHS Highland,2009,89450
+NHS Highland,2010,88620
+NHS Highland,2011,88930
+NHS Highland,2012,86910
+NHS Highland,2013,88050
+NHS Highland,2014,87650
+NHS Highland,2015,86890
+NHS Highland,2016,87130
+NHS Highland,2017,86810
+NHS Highland,2018,86260
+NHS Highland,2019,85870
+NHS Lothian,1998,446240
+NHS Lothian,1999,447190
+NHS Lothian,2000,448430
+NHS Lothian,2001,449020
+NHS Lothian,2002,447500
+NHS Lothian,2003,445300
+NHS Lothian,2004,445870
+NHS Lothian,2005,449470
+NHS Lothian,2006,452040
+NHS Lothian,2007,456040
+NHS Lothian,2008,458520
+NHS Lothian,2009,463230
+NHS Lothian,2010,469930
+NHS Lothian,2011,477940
+NHS Lothian,2012,482630
+NHS Lothian,2013,487460
+NHS Lothian,2014,492610
+NHS Lothian,2015,498810
+NHS Lothian,2016,507170
+NHS Lothian,2017,513210
+NHS Lothian,2018,518500
+NHS Lothian,2019,524930
+NHS Forth Valley,1998,48410
+NHS Forth Valley,1999,48240
+NHS Forth Valley,2000,48170
+NHS Forth Valley,2001,48070
+NHS Forth Valley,2002,48140
+NHS Forth Valley,2003,48140
+NHS Forth Valley,2004,48680
+NHS Forth Valley,2005,49160
+NHS Forth Valley,2006,49540
+NHS Forth Valley,2007,50600
+NHS Forth Valley,2008,51190
+NHS Forth Valley,2009,51290
+NHS Forth Valley,2010,51330
+NHS Forth Valley,2011,51500
+NHS Forth Valley,2012,51280
+NHS Forth Valley,2013,51280
+NHS Forth Valley,2014,51190
+NHS Forth Valley,2015,51360
+NHS Forth Valley,2016,51350
+NHS Forth Valley,2017,51450
+NHS Forth Valley,2018,51400
+NHS Forth Valley,2019,51540
+NHS Dumfries and Galloway,1998,148740
+NHS Dumfries and Galloway,1999,148230
+NHS Dumfries and Galloway,2000,147540
+NHS Dumfries and Galloway,2001,147780
+NHS Dumfries and Galloway,2002,147670
+NHS Dumfries and Galloway,2003,147860
+NHS Dumfries and Galloway,2004,148700
+NHS Dumfries and Galloway,2005,149620
+NHS Dumfries and Galloway,2006,149770
+NHS Dumfries and Galloway,2007,150370
+NHS Dumfries and Galloway,2008,151010
+NHS Dumfries and Galloway,2009,151160
+NHS Dumfries and Galloway,2010,151100
+NHS Dumfries and Galloway,2011,151410
+NHS Dumfries and Galloway,2012,150840
+NHS Dumfries and Galloway,2013,150280
+NHS Dumfries and Galloway,2014,149960
+NHS Dumfries and Galloway,2015,149670
+NHS Dumfries and Galloway,2016,149520
+NHS Dumfries and Galloway,2017,149200
+NHS Dumfries and Galloway,2018,148790
+NHS Dumfries and Galloway,2019,148860
+NHS Tayside,1998,149680
+NHS Tayside,1999,147970
+NHS Tayside,2000,146610
+NHS Tayside,2001,145460
+NHS Tayside,2002,144370
+NHS Tayside,2003,144080
+NHS Tayside,2004,143100
+NHS Tayside,2005,143600
+NHS Tayside,2006,143360
+NHS Tayside,2007,143700
+NHS Tayside,2008,144290
+NHS Tayside,2009,145170
+NHS Tayside,2010,146060
+NHS Tayside,2011,147200
+NHS Tayside,2012,147780
+NHS Tayside,2013,148100
+NHS Tayside,2014,148130
+NHS Tayside,2015,148210
+NHS Tayside,2016,148270
+NHS Tayside,2017,148710
+NHS Tayside,2018,148750
+NHS Tayside,2019,149320
+NHS Ayrshire and Arran,1998,121000
+NHS Ayrshire and Arran,1999,120550
+NHS Ayrshire and Arran,2000,120120
+NHS Ayrshire and Arran,2001,120310
+NHS Ayrshire and Arran,2002,119920
+NHS Ayrshire and Arran,2003,119850
+NHS Ayrshire and Arran,2004,120210
+NHS Ayrshire and Arran,2005,120280
+NHS Ayrshire and Arran,2006,120440
+NHS Ayrshire and Arran,2007,120950
+NHS Ayrshire and Arran,2008,121600
+NHS Ayrshire and Arran,2009,122110
+NHS Ayrshire and Arran,2010,122410
+NHS Ayrshire and Arran,2011,122690
+NHS Ayrshire and Arran,2012,122730
+NHS Ayrshire and Arran,2013,122430
+NHS Ayrshire and Arran,2014,122130
+NHS Ayrshire and Arran,2015,122060
+NHS Ayrshire and Arran,2016,122200
+NHS Ayrshire and Arran,2017,121940
+NHS Ayrshire and Arran,2018,121840
+NHS Ayrshire and Arran,2019,122010
+NHS Greater Glasgow and Clyde,1998,109040
+NHS Greater Glasgow and Clyde,1999,108670
+NHS Greater Glasgow and Clyde,2000,108620
+NHS Greater Glasgow and Clyde,2001,108250
+NHS Greater Glasgow and Clyde,2002,107350
+NHS Greater Glasgow and Clyde,2003,107000
+NHS Greater Glasgow and Clyde,2004,106540
+NHS Greater Glasgow and Clyde,2005,106040
+NHS Greater Glasgow and Clyde,2006,105590
+NHS Greater Glasgow and Clyde,2007,105050
+NHS Greater Glasgow and Clyde,2008,104940
+NHS Greater Glasgow and Clyde,2009,104960
+NHS Greater Glasgow and Clyde,2010,104920
+NHS Greater Glasgow and Clyde,2011,105000
+NHS Greater Glasgow and Clyde,2012,105880
+NHS Greater Glasgow and Clyde,2013,105840
+NHS Greater Glasgow and Clyde,2014,106710
+NHS Greater Glasgow and Clyde,2015,106960
+NHS Greater Glasgow and Clyde,2016,107540
+NHS Greater Glasgow and Clyde,2017,108130
+NHS Greater Glasgow and Clyde,2018,108330
+NHS Greater Glasgow and Clyde,2019,108640
+NHS Lothian,1998,88360
+NHS Lothian,1999,89110
+NHS Lothian,2000,89910
+NHS Lothian,2001,90180
+NHS Lothian,2002,91060
+NHS Lothian,2003,91640
+NHS Lothian,2004,92170
+NHS Lothian,2005,92730
+NHS Lothian,2006,93850
+NHS Lothian,2007,95570
+NHS Lothian,2008,97480
+NHS Lothian,2009,98340
+NHS Lothian,2010,99140
+NHS Lothian,2011,99920
+NHS Lothian,2012,100860
+NHS Lothian,2013,101390
+NHS Lothian,2014,102090
+NHS Lothian,2015,103050
+NHS Lothian,2016,104090
+NHS Lothian,2017,104840
+NHS Lothian,2018,105790
+NHS Lothian,2019,107090
+NHS Greater Glasgow and Clyde,1998,88310
+NHS Greater Glasgow and Clyde,1999,88520
+NHS Greater Glasgow and Clyde,2000,89040
+NHS Greater Glasgow and Clyde,2001,89410
+NHS Greater Glasgow and Clyde,2002,89930
+NHS Greater Glasgow and Clyde,2003,89870
+NHS Greater Glasgow and Clyde,2004,89790
+NHS Greater Glasgow and Clyde,2005,89880
+NHS Greater Glasgow and Clyde,2006,89750
+NHS Greater Glasgow and Clyde,2007,89840
+NHS Greater Glasgow and Clyde,2008,89870
+NHS Greater Glasgow and Clyde,2009,89980
+NHS Greater Glasgow and Clyde,2010,90410
+NHS Greater Glasgow and Clyde,2011,90810
+NHS Greater Glasgow and Clyde,2012,91040
+NHS Greater Glasgow and Clyde,2013,91530
+NHS Greater Glasgow and Clyde,2014,92410
+NHS Greater Glasgow and Clyde,2015,92940
+NHS Greater Glasgow and Clyde,2016,93810
+NHS Greater Glasgow and Clyde,2017,94760
+NHS Greater Glasgow and Clyde,2018,95170
+NHS Greater Glasgow and Clyde,2019,95530
+NHS Forth Valley,1998,143880
+NHS Forth Valley,1999,144570
+NHS Forth Valley,2000,144650
+NHS Forth Valley,2001,145270
+NHS Forth Valley,2002,145920
+NHS Forth Valley,2003,146800
+NHS Forth Valley,2004,148300
+NHS Forth Valley,2005,150130
+NHS Forth Valley,2006,151090
+NHS Forth Valley,2007,152320
+NHS Forth Valley,2008,153290
+NHS Forth Valley,2009,154210
+NHS Forth Valley,2010,155130
+NHS Forth Valley,2011,156250
+NHS Forth Valley,2012,156800
+NHS Forth Valley,2013,157160
+NHS Forth Valley,2014,157690
+NHS Forth Valley,2015,158460
+NHS Forth Valley,2016,159380
+NHS Forth Valley,2017,160130
+NHS Forth Valley,2018,160340
+NHS Forth Valley,2019,160890
+NHS Fife,1998,346540
+NHS Fife,1999,347030
+NHS Fife,2000,348340
+NHS Fife,2001,349770
+NHS Fife,2002,350740
+NHS Fife,2003,351360
+NHS Fife,2004,353050
+NHS Fife,2005,355460
+NHS Fife,2006,357260
+NHS Fife,2007,358740
+NHS Fife,2008,360040
+NHS Fife,2009,361420
+NHS Fife,2010,362610
+NHS Fife,2011,365300
+NHS Fife,2012,366210
+NHS Fife,2013,366900
+NHS Fife,2014,367250
+NHS Fife,2015,368080
+NHS Fife,2016,370330
+NHS Fife,2017,371410
+NHS Fife,2018,371910
+NHS Fife,2019,373550
+NHS Greater Glasgow and Clyde,1998,587050
+NHS Greater Glasgow and Clyde,1999,582950
+NHS Greater Glasgow and Clyde,2000,577020
+NHS Greater Glasgow and Clyde,2001,578710
+NHS Greater Glasgow and Clyde,2002,576450
+NHS Greater Glasgow and Clyde,2003,572270
+NHS Greater Glasgow and Clyde,2004,569560
+NHS Greater Glasgow and Clyde,2005,569250
+NHS Greater Glasgow and Clyde,2006,568460
+NHS Greater Glasgow and Clyde,2007,571760
+NHS Greater Glasgow and Clyde,2008,576200
+NHS Greater Glasgow and Clyde,2009,581620
+NHS Greater Glasgow and Clyde,2010,586500
+NHS Greater Glasgow and Clyde,2011,593060
+NHS Greater Glasgow and Clyde,2012,595070
+NHS Greater Glasgow and Clyde,2013,596520
+NHS Greater Glasgow and Clyde,2014,599640
+NHS Greater Glasgow and Clyde,2015,606340
+NHS Greater Glasgow and Clyde,2016,615070
+NHS Greater Glasgow and Clyde,2017,621020
+NHS Greater Glasgow and Clyde,2018,626410
+NHS Greater Glasgow and Clyde,2019,633120
+NHS Highland,1998,208850
+NHS Highland,1999,209200
+NHS Highland,2000,209130
+NHS Highland,2001,208920
+NHS Highland,2002,209760
+NHS Highland,2003,211640
+NHS Highland,2004,214560
+NHS Highland,2005,218060
+NHS Highland,2006,220780
+NHS Highland,2007,224000
+NHS Highland,2008,226970
+NHS Highland,2009,228750
+NHS Highland,2010,230730
+NHS Highland,2011,232730
+NHS Highland,2012,232890
+NHS Highland,2013,232930
+NHS Highland,2014,233080
+NHS Highland,2015,234110
+NHS Highland,2016,234770
+NHS Highland,2017,235180
+NHS Highland,2018,235540
+NHS Highland,2019,235830
+NHS Greater Glasgow and Clyde,1998,85840
+NHS Greater Glasgow and Clyde,1999,85300
+NHS Greater Glasgow and Clyde,2000,84660
+NHS Greater Glasgow and Clyde,2001,84150
+NHS Greater Glasgow and Clyde,2002,83730
+NHS Greater Glasgow and Clyde,2003,83300
+NHS Greater Glasgow and Clyde,2004,82690
+NHS Greater Glasgow and Clyde,2005,82680
+NHS Greater Glasgow and Clyde,2006,82320
+NHS Greater Glasgow and Clyde,2007,82110
+NHS Greater Glasgow and Clyde,2008,82000
+NHS Greater Glasgow and Clyde,2009,81670
+NHS Greater Glasgow and Clyde,2010,81510
+NHS Greater Glasgow and Clyde,2011,81220
+NHS Greater Glasgow and Clyde,2012,80690
+NHS Greater Glasgow and Clyde,2013,80340
+NHS Greater Glasgow and Clyde,2014,79890
+NHS Greater Glasgow and Clyde,2015,79500
+NHS Greater Glasgow and Clyde,2016,79160
+NHS Greater Glasgow and Clyde,2017,78760
+NHS Greater Glasgow and Clyde,2018,78150
+NHS Greater Glasgow and Clyde,2019,77800
+NHS Lothian,1998,80120
+NHS Lothian,1999,80630
+NHS Lothian,2000,81110
+NHS Lothian,2001,80950
+NHS Lothian,2002,80880
+NHS Lothian,2003,80280
+NHS Lothian,2004,80230
+NHS Lothian,2005,80050
+NHS Lothian,2006,79990
+NHS Lothian,2007,80370
+NHS Lothian,2008,81550
+NHS Lothian,2009,81900
+NHS Lothian,2010,82360
+NHS Lothian,2011,83450
+NHS Lothian,2012,84240
+NHS Lothian,2013,84710
+NHS Lothian,2014,86220
+NHS Lothian,2015,87390
+NHS Lothian,2016,88610
+NHS Lothian,2017,90090
+NHS Lothian,2018,91340
+NHS Lothian,2019,92460
+NHS Grampian,1998,86800
+NHS Grampian,1999,86800
+NHS Grampian,2000,86720
+NHS Grampian,2001,87000
+NHS Grampian,2002,87690
+NHS Grampian,2003,88830
+NHS Grampian,2004,89380
+NHS Grampian,2005,90100
+NHS Grampian,2006,90780
+NHS Grampian,2007,91440
+NHS Grampian,2008,92840
+NHS Grampian,2009,93160
+NHS Grampian,2010,93690
+NHS Grampian,2011,93470
+NHS Grampian,2012,92930
+NHS Grampian,2013,94360
+NHS Grampian,2014,94770
+NHS Grampian,2015,95510
+NHS Grampian,2016,96070
+NHS Grampian,2017,95780
+NHS Grampian,2018,95520
+NHS Grampian,2019,95820
+NHS Western Isles,1998,27540
+NHS Western Isles,1999,27210
+NHS Western Isles,2000,26790
+NHS Western Isles,2001,26450
+NHS Western Isles,2002,26350
+NHS Western Isles,2003,26430
+NHS Western Isles,2004,26650
+NHS Western Isles,2005,26930
+NHS Western Isles,2006,27060
+NHS Western Isles,2007,27210
+NHS Western Isles,2008,27280
+NHS Western Isles,2009,27420
+NHS Western Isles,2010,27600
+NHS Western Isles,2011,27690
+NHS Western Isles,2012,27560
+NHS Western Isles,2013,27400
+NHS Western Isles,2014,27250
+NHS Western Isles,2015,27070
+NHS Western Isles,2016,26900
+NHS Western Isles,2017,26950
+NHS Western Isles,2018,26830
+NHS Western Isles,2019,26720
+NHS Ayrshire and Arran,1998,137470
+NHS Ayrshire and Arran,1999,137160
+NHS Ayrshire and Arran,2000,136360
+NHS Ayrshire and Arran,2001,135820
+NHS Ayrshire and Arran,2002,135890
+NHS Ayrshire and Arran,2003,136310
+NHS Ayrshire and Arran,2004,136500
+NHS Ayrshire and Arran,2005,136690
+NHS Ayrshire and Arran,2006,136790
+NHS Ayrshire and Arran,2007,137420
+NHS Ayrshire and Arran,2008,137910
+NHS Ayrshire and Arran,2009,137830
+NHS Ayrshire and Arran,2010,137800
+NHS Ayrshire and Arran,2011,138090
+NHS Ayrshire and Arran,2012,137570
+NHS Ayrshire and Arran,2013,136940
+NHS Ayrshire and Arran,2014,136480
+NHS Ayrshire and Arran,2015,136130
+NHS Ayrshire and Arran,2016,135890
+NHS Ayrshire and Arran,2017,135790
+NHS Ayrshire and Arran,2018,135280
+NHS Ayrshire and Arran,2019,134740
+NHS Lanarkshire,1998,322180
+NHS Lanarkshire,1999,322160
+NHS Lanarkshire,2000,321390
+NHS Lanarkshire,2001,321180
+NHS Lanarkshire,2002,322520
+NHS Lanarkshire,2003,323700
+NHS Lanarkshire,2004,325400
+NHS Lanarkshire,2005,327140
+NHS Lanarkshire,2006,328740
+NHS Lanarkshire,2007,331160
+NHS Lanarkshire,2008,333280
+NHS Lanarkshire,2009,335160
+NHS Lanarkshire,2010,336280
+NHS Lanarkshire,2011,337720
+NHS Lanarkshire,2012,337890
+NHS Lanarkshire,2013,337780
+NHS Lanarkshire,2014,338000
+NHS Lanarkshire,2015,338260
+NHS Lanarkshire,2016,339390
+NHS Lanarkshire,2017,339960
+NHS Lanarkshire,2018,340180
+NHS Lanarkshire,2019,341370
+NHS Orkney,1998,19590
+NHS Orkney,1999,19420
+NHS Orkney,2000,19290
+NHS Orkney,2001,19220
+NHS Orkney,2002,19330
+NHS Orkney,2003,19540
+NHS Orkney,2004,19830
+NHS Orkney,2005,20070
+NHS Orkney,2006,20340
+NHS Orkney,2007,20580
+NHS Orkney,2008,20740
+NHS Orkney,2009,20940
+NHS Orkney,2010,21220
+NHS Orkney,2011,21420
+NHS Orkney,2012,21530
+NHS Orkney,2013,21560
+NHS Orkney,2014,21580
+NHS Orkney,2015,21670
+NHS Orkney,2016,21850
+NHS Orkney,2017,22000
+NHS Orkney,2018,22190
+NHS Orkney,2019,22270
+NHS Tayside,1998,134580
+NHS Tayside,1999,135200
+NHS Tayside,2000,134970
+NHS Tayside,2001,134950
+NHS Tayside,2002,135130
+NHS Tayside,2003,135960
+NHS Tayside,2004,136900
+NHS Tayside,2005,138060
+NHS Tayside,2006,139380
+NHS Tayside,2007,141140
+NHS Tayside,2008,143130
+NHS Tayside,2009,144370
+NHS Tayside,2010,145600
+NHS Tayside,2011,146850
+NHS Tayside,2012,147740
+NHS Tayside,2013,147770
+NHS Tayside,2014,148930
+NHS Tayside,2015,149930
+NHS Tayside,2016,150680
+NHS Tayside,2017,151100
+NHS Tayside,2018,151290
+NHS Tayside,2019,151950
+NHS Greater Glasgow and Clyde,1998,175320
+NHS Greater Glasgow and Clyde,1999,174390
+NHS Greater Glasgow and Clyde,2000,173680
+NHS Greater Glasgow and Clyde,2001,172850
+NHS Greater Glasgow and Clyde,2002,172300
+NHS Greater Glasgow and Clyde,2003,171560
+NHS Greater Glasgow and Clyde,2004,171470
+NHS Greater Glasgow and Clyde,2005,171430
+NHS Greater Glasgow and Clyde,2006,171270
+NHS Greater Glasgow and Clyde,2007,171870
+NHS Greater Glasgow and Clyde,2008,172640
+NHS Greater Glasgow and Clyde,2009,173020
+NHS Greater Glasgow and Clyde,2010,173700
+NHS Greater Glasgow and Clyde,2011,174700
+NHS Greater Glasgow and Clyde,2012,174300
+NHS Greater Glasgow and Clyde,2013,173890
+NHS Greater Glasgow and Clyde,2014,174230
+NHS Greater Glasgow and Clyde,2015,174560
+NHS Greater Glasgow and Clyde,2016,175930
+NHS Greater Glasgow and Clyde,2017,176830
+NHS Greater Glasgow and Clyde,2018,177790
+NHS Greater Glasgow and Clyde,2019,179100
+NHS Borders,1998,106040
+NHS Borders,1999,105810
+NHS Borders,2000,106250
+NHS Borders,2001,106950
+NHS Borders,2002,107530
+NHS Borders,2003,108390
+NHS Borders,2004,109450
+NHS Borders,2005,110250
+NHS Borders,2006,110860
+NHS Borders,2007,112200
+NHS Borders,2008,113360
+NHS Borders,2009,113590
+NHS Borders,2010,113700
+NHS Borders,2011,113880
+NHS Borders,2012,113720
+NHS Borders,2013,113880
+NHS Borders,2014,114040
+NHS Borders,2015,114030
+NHS Borders,2016,114530
+NHS Borders,2017,115020
+NHS Borders,2018,115270
+NHS Borders,2019,115510
+NHS Shetland,1998,22700
+NHS Shetland,1999,22510
+NHS Shetland,2000,22180
+NHS Shetland,2001,21960
+NHS Shetland,2002,22000
+NHS Shetland,2003,21950
+NHS Shetland,2004,22090
+NHS Shetland,2005,22250
+NHS Shetland,2006,22210
+NHS Shetland,2007,22350
+NHS Shetland,2008,22480
+NHS Shetland,2009,22800
+NHS Shetland,2010,23060
+NHS Shetland,2011,23240
+NHS Shetland,2012,23210
+NHS Shetland,2013,23200
+NHS Shetland,2014,23220
+NHS Shetland,2015,23200
+NHS Shetland,2016,23200
+NHS Shetland,2017,23080
+NHS Shetland,2018,22990
+NHS Shetland,2019,22920
+NHS Ayrshire and Arran,1998,113320
+NHS Ayrshire and Arran,1999,112850
+NHS Ayrshire and Arran,2000,112290
+NHS Ayrshire and Arran,2001,112160
+NHS Ayrshire and Arran,2002,111690
+NHS Ayrshire and Arran,2003,111550
+NHS Ayrshire and Arran,2004,111840
+NHS Ayrshire and Arran,2005,112030
+NHS Ayrshire and Arran,2006,112100
+NHS Ayrshire and Arran,2007,112380
+NHS Ayrshire and Arran,2008,112610
+NHS Ayrshire and Arran,2009,112490
+NHS Ayrshire and Arran,2010,112600
+NHS Ayrshire and Arran,2011,112980
+NHS Ayrshire and Arran,2012,112920
+NHS Ayrshire and Arran,2013,112870
+NHS Ayrshire and Arran,2014,112530
+NHS Ayrshire and Arran,2015,112400
+NHS Ayrshire and Arran,2016,112470
+NHS Ayrshire and Arran,2017,112680
+NHS Ayrshire and Arran,2018,112550
+NHS Ayrshire and Arran,2019,112610
+NHS Lanarkshire,1998,303330
+NHS Lanarkshire,1999,302580
+NHS Lanarkshire,2000,302270
+NHS Lanarkshire,2001,302340
+NHS Lanarkshire,2002,302770
+NHS Lanarkshire,2003,303480
+NHS Lanarkshire,2004,305660
+NHS Lanarkshire,2005,306850
+NHS Lanarkshire,2006,308450
+NHS Lanarkshire,2007,310370
+NHS Lanarkshire,2008,311310
+NHS Lanarkshire,2009,312180
+NHS Lanarkshire,2010,313180
+NHS Lanarkshire,2011,313900
+NHS Lanarkshire,2012,314330
+NHS Lanarkshire,2013,314810
+NHS Lanarkshire,2014,315300
+NHS Lanarkshire,2015,316230
+NHS Lanarkshire,2016,317100
+NHS Lanarkshire,2017,318170
+NHS Lanarkshire,2018,319020
+NHS Lanarkshire,2019,320530
+NHS Forth Valley,1998,84680
+NHS Forth Valley,1999,85450
+NHS Forth Valley,2000,86160
+NHS Forth Valley,2001,86200
+NHS Forth Valley,2002,86630
+NHS Forth Valley,2003,87090
+NHS Forth Valley,2004,86920
+NHS Forth Valley,2005,87510
+NHS Forth Valley,2006,88090
+NHS Forth Valley,2007,88430
+NHS Forth Valley,2008,88540
+NHS Forth Valley,2009,88690
+NHS Forth Valley,2010,89550
+NHS Forth Valley,2011,90330
+NHS Forth Valley,2012,91010
+NHS Forth Valley,2013,91230
+NHS Forth Valley,2014,91520
+NHS Forth Valley,2015,92830
+NHS Forth Valley,2016,93750
+NHS Forth Valley,2017,94000
+NHS Forth Valley,2018,94330
+NHS Forth Valley,2019,94210
+NHS Greater Glasgow and Clyde,1998,94930
+NHS Greater Glasgow and Clyde,1999,94420
+NHS Greater Glasgow and Clyde,2000,93930
+NHS Greater Glasgow and Clyde,2001,93320
+NHS Greater Glasgow and Clyde,2002,93040
+NHS Greater Glasgow and Clyde,2003,92470
+NHS Greater Glasgow and Clyde,2004,91960
+NHS Greater Glasgow and Clyde,2005,91530
+NHS Greater Glasgow and Clyde,2006,91410
+NHS Greater Glasgow and Clyde,2007,91370
+NHS Greater Glasgow and Clyde,2008,91190
+NHS Greater Glasgow and Clyde,2009,91080
+NHS Greater Glasgow and Clyde,2010,90800
+NHS Greater Glasgow and Clyde,2011,90610
+NHS Greater Glasgow and Clyde,2012,90340
+NHS Greater Glasgow and Clyde,2013,89800
+NHS Greater Glasgow and Clyde,2014,89710
+NHS Greater Glasgow and Clyde,2015,89590
+NHS Greater Glasgow and Clyde,2016,89860
+NHS Greater Glasgow and Clyde,2017,89610
+NHS Greater Glasgow and Clyde,2018,89130
+NHS Greater Glasgow and Clyde,2019,88930
+NHS Lothian,1998,153200
+NHS Lothian,1999,154760
+NHS Lothian,2000,157050
+NHS Lothian,2001,159030
+NHS Lothian,2002,160370
+NHS Lothian,2003,161690
+NHS Lothian,2004,163540
+NHS Lothian,2005,165010
+NHS Lothian,2006,167110
+NHS Lothian,2007,169470
+NHS Lothian,2008,171390
+NHS Lothian,2009,173040
+NHS Lothian,2010,174090
+NHS Lothian,2011,175300
+NHS Lothian,2012,176010
+NHS Lothian,2013,176160
+NHS Lothian,2014,177200
+NHS Lothian,2015,178550
+NHS Lothian,2016,180130
+NHS Lothian,2017,181310
+NHS Lothian,2018,182140
+NHS Lothian,2019,183100
