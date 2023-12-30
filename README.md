@@ -3,7 +3,7 @@
 
 **Title:** Trends in Accident & Emergency Waiting Times from NHS UK
 
-**Authors:** Jakub Malý and Julia Miklas
+**Authors:** Jakub Malý (https://github.com/jakub-maly) and Julia Miklas
 
 **Date:** May 2022
 
